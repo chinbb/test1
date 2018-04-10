@@ -1,0 +1,2 @@
+<revproxy:ssl-protocol>TLSv1,TLSv1.1,TLSv1.2</revproxy:ssl-protocol>
+TLSv1.2,SSLv2Hello,TLSv1.1,TLSv1
